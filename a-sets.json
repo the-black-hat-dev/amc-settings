@@ -7,6 +7,6 @@
 "maintenance_mode" : false,
 "maintenance_message" : "This is a test maintenance message",
 "kill_app": false,
-"show_notification_message" : false,
+"show_notification_message" : true,
 "notification_message" : "This is a test notification from admin"
 }
