@@ -1,12 +1,12 @@
 {
-"amc_date" : "01-Apr-2025",
-"service_end_date" : "10-Apr-2025",
+"amc_date" : "01-Apr-2026",
+"service_end_date" : "10-Apr-2026",
 "app_version" : 1,
 "show_update_notification" : false,
 "force_update" : false,
 "maintenance_mode" : false,
 "maintenance_message" : "This is a test maintenance message",
 "kill_app": false,
-"show_notification_message" : true,
+"show_notification_message" : false,
 "notification_message" : "This is a test notification from admin"
 }
